@@ -11,3 +11,7 @@ Individual driving styles were firstly estimated by K-means clustering and Gauss
 CONCLUSION:
 
 Results showed that EMD-LSTM obviously reduced the time-delayed prediction problems with fewer time shifts. Prediction accuracy of the model was significantly increased by including driving styles.
+
+REFERENCE:
+
+Bo Yu, Meitang Li, Huajian Zhou, Shan Bao. A Deep Learning-based Car-overtaking-truck Prediction Model When Considering Individual Driving Styles. Transportation Research Board 100th Annual Meeting, Jan 21-29, Online.
